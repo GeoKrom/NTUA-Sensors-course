@@ -6,7 +6,7 @@ Lab assignments and Semester project for course DPMS_AS/2206 - Sensors, School o
 
 # Authors
 
-George Kassavetakis
+[George Kassavetakis](https://github.com/Gkassavetakis)
 
 [George Krommydas](https://github.com/GeoKrom)
 
